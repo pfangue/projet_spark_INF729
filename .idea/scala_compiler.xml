@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="spark_project_kickstarter_2019_2020,spark_project_kickstarter_2019_2020_6948" />
+  </component>
+</project>

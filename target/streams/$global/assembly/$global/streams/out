@@ -1,0 +1,71 @@
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
+[0m[[0m[0mdebug[0m] [0m[0mSHA-1: c2b9bdce1f86ba79bc424efc80be65479902cef9[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/scala-2.11/spark_project_kickstarter_2019_2020-assembly-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/Preprocessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/Preprocessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/Preprocessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/Preprocessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/Trainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/Trainer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/Trainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/Trainer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$15.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$15.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$18.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$18.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$typecreator29$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$typecreator29$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paristech/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/parfait/Documents/MS BGD/Intro_hadoop_INF729/Spark/spark_project_kickstarter_2019_2020/target/streams/$global/assemblyOption/$global/streams/assembly/57eade66be1b53284d8b2f16ea46d39ad0ef3b88_dir/paristech/WordCount.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
